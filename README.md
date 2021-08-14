@@ -1,4 +1,4 @@
-CSSI Day 1 - Olympic Rings
+CSSI Day 13-14 - Collaborative Drawing App with Websockets
 =================
 
 Your Project
